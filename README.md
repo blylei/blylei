@@ -1,6 +1,6 @@
-### Python 
+### Python程序员 & DBA
 
-I am enthusiast about writing software and solving problems. I’ve worked with big, busy and highly available systems and services. I in particular enjoy sharing my solutions with the world via blogging (https://blog.blylei.tech/) and via open source.
+专注于MySQL、Redis、MongoDB、TiDB等开源数据库的运维、高可用架构部署与实践,性能优化等。使用bash和Python进行自动化运维相关的开发。日常实践以及学习记录汇总到[个人博客平台](https://blog.blylei.tech/).
 
 开发或维护的开源项目:
 
