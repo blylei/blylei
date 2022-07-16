@@ -9,6 +9,4 @@
 - [frabit-server](https://github.com/frabitech/frabit-server)
 - [frabit-toolkit](https://github.com/frabitech/frabit-toolkit) 
 
-[![Blylei's GitHub stats](https://github-readme-stats.vercel.app/api?username=blylei)](https://github.com/blylei/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blylei)](https://github.com/blylei/github-readme-stats)
+[![Blylei's GitHub stats](https://github-readme-stats.vercel.app/api?username=blylei)](https://github.com/blylei/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blylei)](https://github.com/blylei/github-readme-stats)
