@@ -9,4 +9,6 @@
 - [frabit-server](https://github.com/frabitech/frabit-server)
 - [frabit-toolkit](https://github.com/frabitech/frabit-toolkit) 
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 [![Blylei's GitHub stats](https://github-readme-stats.vercel.app/api?username=blylei)](https://github.com/blylei/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blylei)](https://github.com/blylei/github-readme-stats)
