@@ -21,9 +21,7 @@
 
 开发或维护的开源项目:
 
-- [frabit](https://github.com/frabitech/frabit)
-- [frabit-web](https://github.com/frabitech/frabit-web)
-- [frabit-server](https://github.com/frabitech/frabit-server)
-- [frabit-toolkit](https://github.com/frabitech/frabit-toolkit) 
+- [frabit](https://github.com/frabit-io/frabit) 
+- [frabit-toolkit](https://github.com/frabit-io/frabit-toolkit) 
 
 [![Blylei's GitHub stats](https://github-readme-stats.vercel.app/api?username=blylei)](https://github.com/blylei/github-readme-stats)
