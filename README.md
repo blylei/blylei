@@ -17,6 +17,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 
+Hi folks, there
+
 专注于MySQL、Redis、MongoDB、TiDB等开源数据库的高可用、高性能、易扩展研究与实践。使用Bash、Python和Golang进行自动化运维相关的开发。日常实践以及学习记录汇总到[个人博客平台](https://blog.blylei.tech/).
 
 开发或维护的开源项目:
