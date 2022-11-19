@@ -24,6 +24,5 @@ Hi folks, there
 开发或维护的开源项目:
 
 - [frabit](https://github.com/frabit-io/frabit) 
-- [frabit-toolkit](https://github.com/frabit-io/frabit-toolkit) 
-
-[![Blylei's GitHub stats](https://github-readme-stats.vercel.app/api?username=blylei)](https://github.com/blylei/github-readme-stats)
+- [frabit-ctl](https://github.com/frabit-io/frabit-ctl) 
+- [frabit-toolkit](https://github.com/frabit-io/frabit-toolkit)  
