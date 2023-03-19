@@ -13,8 +13,7 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 Hi folks, there
 
@@ -22,9 +21,6 @@ Hi folks, there
 
 开发或维护的开源项目:
 
-- [frabit](https://github.com/frabit-io/frabit) 
-- [frabit-ctl](https://github.com/frabit-io/frabit-ctl) 
-- [frabit-toolkit](https://github.com/frabit-io/frabit-toolkit)  
-
-
-[Give me a coffee](https://www.buymeacoffee.com/blylei)
+- [frabit](https://github.com/frabits/frabit) 
+- [frabit-ctl](https://github.com/frabits/frabit-ctl) 
+- [frabit-toolkit](https://github.com/frabits/frabit-toolkit)  
